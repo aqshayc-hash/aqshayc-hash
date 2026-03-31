@@ -1,4 +1,4 @@
-# Hi, I'm Aqshay 👋
+# Hi, I am Aqshay 👋
 
 **Data & Analytics Engineer** · Berlin, Germany
 
