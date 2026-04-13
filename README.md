@@ -44,6 +44,17 @@ A job application tracker that syncs with Gmail via OAuth to automatically detec
 
 ---
 
+### [Sales Funnel Analytics — dbt Assessment](https://github.com/aqshayc-hash/dbt_enpal_assessment)
+> **dbt · PostgreSQL · Docker**
+
+dbt project modelling a Pipedrive CRM sales funnel across 9 stages. Built a 3-layer architecture (staging → intermediate → marts) producing `rep_sales_funnel_monthly` — a reporting table tracking deal progression month-by-month for conversion rate analysis.
+
+- Staging/intermediate as views, marts as tables — optimised materialisation strategy
+- Full source definitions, dbt tests, and documentation
+- Containerised PostgreSQL environment via Docker Compose
+
+---
+
 ## 💼 Experience Highlights
 
 **Klarna Bank** · Data Engineer _(2021–2022)_
