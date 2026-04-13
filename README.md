@@ -15,7 +15,7 @@ Open to **Data Engineer** and **Analytics Engineer** roles in Berlin or remote w
 | **Warehouse & Cloud** | BigQuery · Snowflake · Redshift · AWS (S3, Glue, Lambda) · GCP |
 | **Orchestration & Pipelines** | dbt · Apache Airflow · Dagster · Apache Spark · CI/CD (GitHub Actions) |
 | **BI & Visualisation** | Power BI · Tableau · Qlik Sense · Looker · Streamlit |
-| **Languages** | SQL · Python · Go |
+| **Languages** | SQL · Python |
 
 ---
 
